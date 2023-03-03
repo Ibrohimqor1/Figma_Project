@@ -18,6 +18,7 @@ const Navbar = () => {
                 </ul>
             </div>
             {/* ;;;;;;;;;;;; */}
+            {/* ............. */}
             <div className='container-4'>
                 <button className='w-32 h-12 rounded-full text-white bg-orange-400 md:text-xs text-base'>Contact Us</button>
             </div>
